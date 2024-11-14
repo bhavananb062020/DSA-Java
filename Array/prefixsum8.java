@@ -1,6 +1,6 @@
 package Array;
 
-public class prefixsum {
+public class prefixsum8 {
     public static int prefix(int[] arr){
         int currsum = 0;
         int maxsum = Integer.MIN_VALUE;

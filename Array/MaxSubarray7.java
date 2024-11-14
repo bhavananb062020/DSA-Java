@@ -1,6 +1,6 @@
 package Array;
 
-public class MaxSubarray {
+public class MaxSubarray7 {
     public static int maxsub(int[] arr){
         int currsum =  0;
         int maxsum = Integer.MIN_VALUE;

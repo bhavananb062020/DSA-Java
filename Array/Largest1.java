@@ -1,6 +1,6 @@
 package Array;
 
-public class Largest{
+public class Largest1{
     public static int large(int arr[]){
         int large = Integer.MIN_VALUE;
         for(int i=0;i<arr.length;i++){

@@ -1,6 +1,6 @@
 package Array;
 
-public class subarray {
+public class subarray6 {
     public static void subarray1(int[] arr){
         for(int i=0;i<arr.length;i++){
             for(int j=i;j<arr.length;j++){

@@ -1,6 +1,6 @@
 package Array;
 
-public class Binarysearch {
+public class Binarysearch3 {
     public static int binary(int[] arr,int key){
         int start=0;
         int end = arr.length -1;

@@ -1,6 +1,6 @@
 package Array;
 
-public class Pairs {
+public class Pairs5 {
     public static void pair(int[] arr) {
         for(int i=0;i<arr.length;i++){
             for(int j=i+1;j<arr.length;j++){
